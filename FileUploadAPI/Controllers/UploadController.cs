@@ -17,6 +17,7 @@ namespace FileUploadAPI.Controllers
         }
         [HttpPost]
         [Route("file")]
+        [Microsoft.AspNetCore.Authorization.Authorize]
         public async Task<IActionResult> UploadFile(IFormFile file)
         {
             if (file == null || file.Length == 0)
