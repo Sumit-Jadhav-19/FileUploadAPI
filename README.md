@@ -22,3 +22,7 @@ This is a simple ASP.NET Core Web API that allows you to upload image files, sav
 - Swagger (Swashbuckle)
 
 ---
+🧑‍💻 Author
+Sumit – .NET Developer
+💼 LinkedIn  | 🌐 Portfolio | ✨ GitHub: yourusername
+
